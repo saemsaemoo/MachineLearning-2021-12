@@ -1,3 +1,12 @@
+# Hansaem Kim add
+exercise.ipynb
+roadapikey.txt
+kakaoapikey.txt
+chromedriver.exe
+password.txt
+creditcard.csv
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
