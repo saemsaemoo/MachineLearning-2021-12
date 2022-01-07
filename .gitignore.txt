@@ -5,7 +5,8 @@ kakaoapikey.txt
 chromedriver.exe
 password.txt
 creditcard.csv
-
+model/
+OpinosisDataset1.0/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
