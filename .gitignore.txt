@@ -6,7 +6,12 @@ chromedriver.exe
 password.txt
 creditcard.csv
 model/
+.DS_Store
 OpinosisDataset1.0/
+dataset/
+movies/
+data/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
